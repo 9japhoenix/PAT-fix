@@ -1,1 +1,2 @@
-# PHOENIX
+# PHOENIX 
+Learning git is fun
